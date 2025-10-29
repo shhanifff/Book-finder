@@ -28,6 +28,7 @@ Technology	Purpose
 #Key Features
 
 💡 Key Features
+
 ✅ Real-time Book Search – Uses the Open Library API for instant results
 ✅ Book Cards – Displays title, author, and cover image
 ✅ Pagination – Easy navigation through search results
